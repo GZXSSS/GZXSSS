@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=GZXSSS&fontSize=72&color=0:0b1220,50:1d3b73,100:00c6ff&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%AD%A6%E7%94%9F%20%7C%20%E5%B5%8C%E5%85%A5%E5%BC%8F%20%7C%20%E6%B8%B8%E6%88%8F%20%7C%20%E5%85%A8%E6%A0%88&descSize=19&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=GZXSSS&fontSize=72&color=0:0b1220,50:1d3b73,100:00c6ff&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=%E7%A7%91%E6%8A%80%E7%9A%84%E8%BF%9B%E6%AD%A5%EF%BC%8C%E6%98%AF%E4%B8%BA%E4%BA%86%E9%80%A0%E7%A6%8F%E4%BA%BA%E7%B1%BB" />
 </p>
