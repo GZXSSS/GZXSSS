@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/github/stars/GZXSSS?style=for-the-badge&color=00e5ff&labelColor=0d1117&logo=github&label=Stars" />
   <img src="https://img.shields.io/github/last-commit/GZXSSS/GZXSSS?style=for-the-badge&color=00e5ff&labelColor=0d1117&logo=github&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4" />
 </p>
-## 🛠 技术栈
-### 编程语言
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,dart&theme=dark" />
 </p>
