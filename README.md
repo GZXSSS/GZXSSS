@@ -41,7 +41,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=godot,android,flutter&theme=dark" />
 </p>
-## 🔗 联系方式
 <p align="center">
   <a href="https://unqiuegzx.qzz.io">
     <img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" />
