@@ -11,20 +11,6 @@
   <img src="https://img.shields.io/github/stars/GZXSSS?style=for-the-badge&color=00e5ff&labelColor=0d1117&logo=github&label=Stars" />
   <img src="https://img.shields.io/github/last-commit/GZXSSS/GZXSSS?style=for-the-badge&color=00e5ff&labelColor=0d1117&logo=github&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4" />
 </p>
-
----
-
-## 👋 关于我
-
-- **姓名**：Gao ZiXun（**GZXSSS**）
-- 🎓 **专业**：软件工程
-- 📍 **所在地**：中国
-- 🌐 **个人博客**：[unqiuegzx.qzz.io](https://unqiuegzx.qzz.io/)
-- 💡 **兴趣方向**：游戏开发、后端开发、Android、
-- 🚀 **个人理念**：科技的进步，是为了造福人类
-
----
-
 ## 🛠 技术栈
 ### 编程语言
 <p align="center">
