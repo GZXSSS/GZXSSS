@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Gao+ZiXun%EF%BC%88GZXSSS%EF%BC%89%F0%9F%91%8B;%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%9C%A8%E8%AF%BB;%E7%83%AD%E7%88%B1%E5%B5%8C%E5%85%A5%E5%BC%8F%2F%E6%B8%B8%E6%88%8F%2F%E5%90%8E%E7%AB%AF%2FAndroid;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%EF%BC%8C%E6%8C%81%E7%BB%AD%E5%BC%80%E5%8F%91+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=%E7%A7%91%E6%8A%80%E7%9A%84%E8%BF%9B%E6%AD%A5%EF%BC%8C%E6%98%AF%E4%B8%BA%E4%BA%86%E9%80%A0%E7%A6%8F%E4%BA%BA%E7%B1%BB" />
 </p>
 
 <p align="center">
